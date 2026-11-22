@@ -53,6 +53,8 @@ DIAT(디지털정보활용능력) 실기 기출문제와 응시 종목 프로그
 
 사용 중 궁금한 점이나 오류는 [Issues](https://github.com/program-going/gichulpulgi-diat/issues) 에 글로 남겨 주세요.
 
+사용 후기는 [Discussions](https://github.com/program-going/gichulpulgi-diat/discussions) 에 남겨 주세요.
+
 글을 남기려면 GitHub 로그인이 필요합니다.
 
 ## 저작권
